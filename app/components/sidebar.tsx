@@ -121,7 +121,7 @@ export function SideBar(props: { className?: string }) {
       <div className={styles["sidebar-header"]}>
         <div className={styles["sidebar-title"]}>ChatGPT Next</div>
         <div className={styles["sidebar-sub-title"]}>
-        个人店铺地址：<a href="https://aigaochao.xyz" target="_blank">aigaochao.xyz</a>欢迎来购买gpt
+        欢迎使用Against的GPT
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
